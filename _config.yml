@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Aanjaneya Kumar"
-  avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  avatar           : "profile.jpeg"
+  bio              : "I am a PhD student working in the field of Complex Systems. I am funded by the Prime Minister's Research Fellowship."
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
