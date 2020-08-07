@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Aanjaneya Kumar"
   avatar           : "profile.jpeg"
-  bio              : "I am a PhD student working in the field of Complex Systems. My work is supported by the Prime Minister's Research Fellowship."
+  bio              : "I am a PhD student working in the field of Complex Systems. My research is supported by the Prime Minister's Research Fellowship."
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en"
+  googlescholar    :  "https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Aanjaneya_Kumar?ev=hdr_xprf"
   uri              :
