@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+excerpt: 'Spreading processes and stochastic growth models have attracted a lot of attention in statistical physics -- mainly owing to their wide applicability and partly to their beauty. While growth and spreading processes are ubiquitous, starting from growing bacterial colonies to growing of tumors and spreading of rumours in a society, these models have provided us with great insight into nonequilibrium phenomena by giving us a platform to investigate universal behavior. One of the simplest models of growing clusters was introduced by Murray Eden in 1961 as the Eden model in order to investigate the growth of biological cell colonies. In this work, we develop theoretical tools to bound the speed at which the Eden clusters grow, and hence initiate a conversation about the asymptotic shape of these clusters.'
+date: February, 2020
+venue: 'Journal of Statistical Physics'
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
