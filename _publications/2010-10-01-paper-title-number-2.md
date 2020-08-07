@@ -6,3 +6,4 @@ excerpt: 'Spreading processes and stochastic growth models have attracted a lot 
 date: February, 2020
 venue: 'Journal of Statistical Physics'
 ---
+The official link to the paper can be found [here](https://link.springer.com/article/10.1007/s10955-020-02498-z). 
