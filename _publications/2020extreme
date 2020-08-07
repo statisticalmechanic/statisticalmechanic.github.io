@@ -1,7 +1,7 @@
 ---
 title: "Extreme Events in Stochastic Transport on Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020extreme
 excerpt: 'Extreme events often tend to be associated with natural disasters such as the floods, droughts and earthquakes. However, more generally, any event whose magnitude displays pronounced deviation from its typical average value can be regarded as an extreme event. This definition includes events ranging from traffic congestion to powerblack-outs. In particular, many of these extreme events take place on the topology of a network. Hence, it is of interest  to study how the network structure affects extreme event properties, and if these networks, as a whole unit, can survive the onslaught of extreme events taking place on them. Using the paradigm of random walks on complex networks, in this work, we perform a detailed analytical study of extreme events that occur on the edges of networks, which complements previous works on extreme events on nodes, while simultaneously providing several fresh insights.'
 date: April, 2020
 venue: Chaos
