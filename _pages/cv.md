@@ -25,7 +25,7 @@ Publications
 Teaching
 ======
 * Grader for: 
-  * Advanced Statistical Mechanics (Fall 2018), Course coordinator: Prof. Deepak Dhar 
-  * Advanced Quantum Mechanics (Spring 2019),   Course coordinator: Prof. Deepak Dhar
+  * Advanced Statistical Mechanics (Fall 2018),    Course coordinator: Prof. Deepak Dhar 
+  * Advanced Quantum Mechanics     (Spring 2019),  Course coordinator: Prof. Deepak Dhar
 * Teaching Assistant for:
-  * Nonlinear Dynamics and Chaos (Spring 2020), Course coordinator: Prof. M. S. Santhanam
+  * Nonlinear Dynamics and Chaos   (Spring 2020),  Course coordinator: Prof. M. S. Santhanam
