@@ -20,7 +20,7 @@ Publications
 1. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Valerio Capraro and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
 2. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
-  * With Suman Kulkari and Prof. M. S. Santhanam, in *Chaos* (2020)
+  * With Suman Kulkarni and Prof. M. S. Santhanam, in *Chaos* (2020)
 3. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
   * With Prof. Deepak Dhar, in *Journal of Statistical Physics* (2020)
 4. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
