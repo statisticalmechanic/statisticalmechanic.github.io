@@ -36,7 +36,15 @@ A bunch of (related) questions that I would be very interested in viewing from t
 
 
 
-
+Under the supervision of Prof. M. S. Santhanam, and Prof. Deepak Dhar, I have also explored some conventional statistical physics problems. The following is a list of such works:
+1. [Chase-Escape Percolation on the 2D Square Lattice](https://arxiv.org/abs/2010.05310)
+  * With Prof. Deepak Dhar
+2. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
+  * With Prof. Deepak Dhar, in *Journal of Statistical Physics* (2020)
+3. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
+  * With Prof. Deepak Dhar, in *Journal of Statistical Mechanics* (2020)
+4. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
+  * With Prof. M. S. Santhanam, in *Physica A* (2019)
 
 
 
