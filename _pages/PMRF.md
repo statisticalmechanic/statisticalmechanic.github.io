@@ -34,8 +34,7 @@ Apart from helping us understand biodiveristy, the theory of evolution has given
 
 A bunch of (related) questions that I would be very interested in viewing from the lens of evolutionary game theory are: Even with the advent of technology, while the facts maybe just a careful Google search away, why does fake news persist for long in our society? Why do retracted papers continue to be cited in scientific literature? Is there a way in which we could combat misinformation?
 
-
-
+# Other works
 Under the supervision of Prof. M. S. Santhanam, and Prof. Deepak Dhar, I have also explored some conventional statistical physics problems. The following is a list of such works:
 1. [Chase-Escape Percolation on the 2D Square Lattice](https://arxiv.org/abs/2010.05310)
   * With Prof. Deepak Dhar
@@ -46,7 +45,7 @@ Under the supervision of Prof. M. S. Santhanam, and Prof. Deepak Dhar, I have al
 4. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
   * With Prof. M. S. Santhanam, in *Physica A* (2019)
 
-
+(Please note that a majot part of 3 of the above 4 works was carried out before I became a PhD student.)
 
 
 
