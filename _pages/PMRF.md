@@ -45,7 +45,7 @@ Under the supervision of Prof. M. S. Santhanam, and Prof. Deepak Dhar, I have al
 4. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
   * With Prof. M. S. Santhanam, in *Physica A* (2019)
 
-(Please note that a majot part of 3 of the above 4 works was carried out before I became a PhD student.)
+(Please note that 3 of the above 4 works were carried out before I started as a PhD student, but a large part of the work on Chase-Escape Percolation was done during the tenure of my PMRFellowship.)
 
 
 
