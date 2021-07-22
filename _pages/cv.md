@@ -22,7 +22,7 @@ Publications
 2. [The Evolution of Honesty in Higher-Order Social Networks](http://aanjaneyakumar.com/publication/2020trust)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, submitted to *Physical Review E* (2021) 
 3. [Simplicial contagion in temporal higher-order networks](https://arxiv.org/abs/2105.04455)
-  * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, submitted to *Journal of Physics: Complexity* (2021) 
+  * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
 4. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
 5. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
