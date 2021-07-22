@@ -45,5 +45,6 @@ Teaching
   * Nonlinear Dynamics and Chaos    (Spring 2020),  Course coordinator: Prof. M. S. Santhanam
   * Statistical and Thermal Physics (Spring 2021),  Course coordinator: Prof. Seema Sharma, Prof. Vijaykumar Chikkadi
 * Lecturer:
-  * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune.
+  * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune
+  * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
 
