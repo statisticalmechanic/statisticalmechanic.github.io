@@ -19,7 +19,7 @@ Publications
 ======
 1. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
   * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-2. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/accepted/dd07bK96P261190426ff2e06f88103764f826d150)
+2. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, submitted to *Physical Review E* (2021) 
 3. [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
