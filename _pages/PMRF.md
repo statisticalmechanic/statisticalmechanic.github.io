@@ -51,7 +51,7 @@ I am determined to contribute more to the theory of extreme events in partially 
 **Evolutionary game theory**
 1. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Valerio Capraro and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
-2. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/accepted/dd07bK96P261190426ff2e06f88103764f826d150)
+2. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, accepted in *Physical Review E* (2021) 
 
 
