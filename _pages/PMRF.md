@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /PMRF/
 title: "For PMRF Reviewers"
 author_profile: true
