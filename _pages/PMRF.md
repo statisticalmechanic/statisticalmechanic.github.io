@@ -22,6 +22,22 @@ Here are some important links for my review:
 3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing)
 
 
+
+Teaching
+======
+* Grader for: 
+  * Advanced Quantum Mechanics      (Spring 2019),  Course coordinator: Prof. Deepak Dhar
+* Teaching Assistant for:
+  * Nonlinear Dynamics and Chaos    (Spring 2020),  Course coordinator: Prof. M. S. Santhanam
+  * Statistical and Thermal Physics (Spring 2021),  Course coordinator: Prof. Seema Sharma, Prof. Vijaykumar Chikkadi
+* Lecturer:
+  * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune
+  * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
+  * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
+
+
+
+
 A very high-level goal of statistical physics is to provide a low-dimensional representation of high-dimensional complex systems. This is not always an easy task. Ideally, one wants to arrive at a description which captures essential features of the complex system at hand, but one which is also simple enough, so that it is tractable, and further insight into the system can be generated from it. This is where stochastic processes play an important role, which is a unifying theme of my research interests. The general philosophy behind stochastic modelling is that when you are faced with unmanageable complexity, a good first step is to model that with randomness. The pursuit of describing elements of a complex system in the simplest manner possible, and the remarkable success of stochastic modelling in doing so has shaped my research interests significantly. 
 
 The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](http://aanjaneyakumar.com/publications/) or from some of the links in the sidebar. A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
