@@ -30,7 +30,7 @@ Publications (from the last review period May 2021 - April 2022)
   * Gated first-passage processes in continuous space and time ([link to draft](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing))
   * A unified framework to compute record ages under restart ([link to draft](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing))
 * Preprints:
-  * [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354), with Prof. Denis Grebenkov
+  * [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354), with Prof. Denis Grebenkov,	*arXiv:2202.07354*
 * Published work:
   * [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849), with Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
   * [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103), with Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
