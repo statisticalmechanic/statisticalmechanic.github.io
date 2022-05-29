@@ -24,7 +24,7 @@ Here are some important links for my review:
 
 
 Teaching
-======
+=========
 * Grader for: 
   * Advanced Quantum Mechanics      (Spring 2019),  Course coordinator: Prof. Deepak Dhar
 * Teaching Assistant for:
@@ -34,7 +34,7 @@ Teaching
   * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune
   * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
   * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
-
+  * Statistical Mechanics           (Spring 2022), at Fergusson College, Pune
 
 
 
