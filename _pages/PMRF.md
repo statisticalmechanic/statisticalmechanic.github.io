@@ -15,11 +15,11 @@ My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Sc
 
 Here are some important links for my review:
 
-1. [Academic CV](https://drive.google.com/file/d/1-3A2rA4kumKXelL2LoVg8UQiNKOh_f7c/view?usp=sharing)
+1. [Academic CV](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
 
-2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing)
+2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
 
-3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing)
+3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
 
 
 
@@ -37,7 +37,7 @@ Publications (from the last review period May 2021 - April 2022)
   * [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
   * [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
  
- Complete list of published work is available in my [CV](https://drive.google.com/file/d/1-3A2rA4kumKXelL2LoVg8UQiNKOh_f7c/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
+ Complete list of published work is available in my [CV](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
 
 
 Teaching
