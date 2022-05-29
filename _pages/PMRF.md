@@ -34,10 +34,10 @@ Publications (from the last review period May 2021 - April 2022)
 * Published work:
   * [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849), with Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
   * [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103), with Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-  * [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
+  * [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
   * [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
  
- Complete list of published work is available in my [CV](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing) and [Google Scholar page](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing). 
+ Complete list of published work is available in my [CV](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
 
 
 Teaching
