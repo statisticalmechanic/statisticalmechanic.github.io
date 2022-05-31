@@ -57,7 +57,7 @@ Teaching
 
 
 
-Research Summary 
+Summary 
 =========
 A very high-level goal of statistical physics is to provide a low-dimensional representation of high-dimensional complex systems. This is not always an easy task. Ideally, one wants to arrive at a description which captures essential features of the complex system at hand, but one which is also simple enough, so that it is tractable, and further insight into the system can be generated from it. This is where stochastic processes play an important role, which is a unifying theme of my research interests. The general philosophy behind stochastic modelling is that when you are faced with unmanageable complexity, a good first step is to model that with randomness. The pursuit of describing elements of a complex system in the simplest manner possible, and the remarkable success of stochastic modelling in doing so has shaped my research interests significantly. 
 
