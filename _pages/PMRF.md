@@ -15,11 +15,11 @@ My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Sc
 
 Here are some important links for my review:
 
-1. [Academic CV](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
+1. [Academic CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing)
 
-2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
+2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
 
-3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing)
+3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
 
 
 
@@ -37,7 +37,7 @@ Publications (from the last review period May 2021 - April 2022)
   * [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
   * [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
  
- Complete list of published work is available in my [CV](https://drive.google.com/file/d/1PI2fA6Oo5QSRdXjfHnU17wLrVaRdeuN1/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
+ Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
 
 
 Teaching
@@ -53,7 +53,7 @@ Teaching
   * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
   * Statistical Mechanics           (Spring 2022), at Fergusson College, Pune
 
-[Teaching report for the last review period is available here.](https://drive.google.com/file/d/1Z9Pywau_D2Sl3XuqWzL0JYiUxUiikeKp/view?usp=sharing)
+[Teaching report for the last review period is available here.](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
 
 
 
@@ -61,12 +61,12 @@ Research Summary
 =========
 A very high-level goal of statistical physics is to provide a low-dimensional representation of high-dimensional complex systems. This is not always an easy task. Ideally, one wants to arrive at a description which captures essential features of the complex system at hand, but one which is also simple enough, so that it is tractable, and further insight into the system can be generated from it. This is where stochastic processes play an important role, which is a unifying theme of my research interests. The general philosophy behind stochastic modelling is that when you are faced with unmanageable complexity, a good first step is to model that with randomness. The pursuit of describing elements of a complex system in the simplest manner possible, and the remarkable success of stochastic modelling in doing so has shaped my research interests significantly. 
 
-The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](http://aanjaneyakumar.com/publications/) or from some of the links in the sidebar. A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
+The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
 
-As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdisciplinary research in the following areas:
+<!-- As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdisciplinary research in the following areas: -->
 
 
-# Extreme Events
+<!-- # Extreme Events
 
 Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems. 
 
@@ -81,7 +81,7 @@ Some preliminary results obtained in the project were presented in the previous 
 
 The work described above was written up in June 2021, and has now been published in Physical Review E as a [Letter](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103). However, we have continued to explore many interesting questions that have arised out of this project, under the broad theme of partially observable stochastic processes. By mapping the mathematical analysis in our project to the mathematics underlying the theory of gated reactions (which are very important and well-studied topics in Chemistry and Biology), we have been able to extend our work in such a way that now $X(t)$ is no longer restricted to being a discrete-space Markov process. In particular, we can compute the first detection time distribution for $X(t)$ generated by non-Markovian process with discrete states that satisfy the renewal property. New challenges emerge when one wishes to compute the first detection time statistics where $X(t)$ is a  continuous process (and does not have a discrete state space). This continuous case problem also has an interesting theoretical feature -- the theory developed for gated reactions in continuous space do not extend to the problem of first detection of threshold crossing events when $X(t)$ is a continuous process. This has encouraged us to come up with a new formalism, that allows for the analysis for cases where $X(t)$ is a continuous time-series that follows Markovian evolution. The details of this new formalism will be presented in the upcoming PMRF review. Furthermore, the problem of intermittent sensing also leads to interesting optimization problems -- what should the rates $\alpha$ and $\beta$ (see schematic above) be, so that the time between first passage and first detection is decreased, and also, the time spent by the sensor in its active state is decreased? Some preliminary results on our efforts of solving this optimization problem will be discussed in the upcoming review.
 
-I am determined to contribute more to the theory of extreme events in partially observable stochastic processes and time series, and have identified interesting problems that I will solve in the upcoming review period.
+I am determined to contribute more to the theory of extreme events in partially observable stochastic processes and time series, and have identified interesting problems that I will solve in the upcoming review period. -->
 
 
 
