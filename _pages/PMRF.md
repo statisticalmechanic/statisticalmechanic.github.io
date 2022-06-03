@@ -63,13 +63,51 @@ A very high-level goal of statistical physics is to provide a low-dimensional re
 
 The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
 
-<!-- 
+
+Research Interests
+=========
+
 As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdisciplinary research in the following areas:
 
+* Stochastic models of complex systems
+* Extreme events
+* Complex networks
+* Statistical physics
+* Evolutionary game theory
 
-# Extreme Events
 
-Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems.  -->
+Publications 
+=========
+
+
+1. [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354) 
+  * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
+2. [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
+  * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
+3. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
+  * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
+4. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
+  * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
+5. [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
+  * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
+6. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
+  * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
+7. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
+  * With Prof. Valerio Capraro and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
+8. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
+  * With Suman Kulkarni and Prof. M. S. Santhanam, in *Chaos* (2020)
+9. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
+  * With Prof. Deepak Dhar, in *Journal of Statistical Physics* (2020)
+10. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
+  * With Prof. Deepak Dhar, in *Journal of Statistical Mechanics* (2020)
+11. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
+  * With Prof. M. S. Santhanam, in *Physica A* (2019)
+12. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
+  * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
+  
+
+<!-- 
+Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems. -->
 
 <!-- In my [first project](https://aip.scitation.org/doi/10.1063/1.5139018) as a PhD student, I explored the problem of extreme events taking place on the *edges* of a network, and showed that they show strikingly different statistics than extreme events taking place on the *nodes* of a network. I computed exactly the statistics of the load and flux on each edge of the network and established that the probability of extreme events occurring on them is given by the regularized incomplete Beta function. Furthermore, I studied time delayed correlations between extreme events occurring on nodes and edges and found that while low degree nodes are more prone to extreme events, carefully observing their neighbouring nodes can lead to identification of precursors. Our results provide a mathematical framework to study network failure through edge deletion mechanism induced by extreme events and provides a systematic route to model the edge deletion rates, based on the underlying dynamical process taking place on the network. Our work was published in the special issue of *Chaos* titled *Rare Events in Complex Systems: Understanding and Prediction*.
 
