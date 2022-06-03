@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Indian Institute of Science Education and Research Pune, 2019
-* M.S. in Physics, Indian Institute of Science Education and Research Pune, 2019
+* B.S. in Physics, Indian Institute of Science Education and Research Pune, 2014-2019
+* M.S. in Physics, Indian Institute of Science Education and Research Pune, 2014-2019
 * Ph.D in Physics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected) 
 
 Publications
@@ -43,7 +43,7 @@ Publications
 12. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
   * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
   
-  
+Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en).   
 
 Teaching
 =========
