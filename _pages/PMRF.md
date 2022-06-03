@@ -33,9 +33,9 @@ Publications (from the last review period May 2021 - April 2022)
   * [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354), with Prof. Denis Grebenkov,	*arXiv:2202.07354*
 * Published work:
   * [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849), with Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
-  * [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103), with Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-  * [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
-  * [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
+  * [First detection of threshold crossing events under intermittent sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103), with Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
+  * [Chase-escape percolation on the 2D square lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
+  * [The evolution of honesty in higher-order social networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
   * [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd), with Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Prof. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
  
  Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
@@ -81,15 +81,15 @@ Publications
 =========
 
 
-1. [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354) 
+1. [Diffusion-Controlled Reactions Triggered by Multiple Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
   * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
-2. [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
+2. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
 3. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
   * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
 4. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
-5. [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
+5. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
 6. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
