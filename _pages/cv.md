@@ -18,9 +18,9 @@ Education
 Publications
 ======
 
-1. [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354) 
+1. [Diffusion-Controlled Reactions Triggered by Multiple Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
   * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
-2. [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
+2. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
 3. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
   * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
