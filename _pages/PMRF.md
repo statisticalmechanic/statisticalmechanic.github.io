@@ -71,6 +71,7 @@ Research Interests
 As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdisciplinary research in the following areas:
 
 * Stochastic models of complex systems
+* Inference from partial information
 * Extreme events
 * Complex networks
 * Statistical physics
