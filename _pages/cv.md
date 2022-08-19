@@ -18,7 +18,7 @@ Education
 Publications
 ======
 
-1. [Diffusion-Controlled Reactions Triggered by Multiple Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
+1. [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
   * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
 2. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
@@ -26,7 +26,7 @@ Publications
   * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
 4. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
-5. [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
+5. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
 6. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
