@@ -19,7 +19,7 @@ Publications
 ======
 
 1. [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
-  * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
+  * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical* (2022)
 2. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
 3. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
