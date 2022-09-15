@@ -45,7 +45,7 @@ Publications (from the last review period May 2021 - April 2022)
 Research Interests
 =========
 
-As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdisciplinary research in the following areas:
+My current research interests include:
 
 * Stochastic models of complex systems
 * Inference from partial information
