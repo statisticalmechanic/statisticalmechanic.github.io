@@ -13,16 +13,14 @@ redirect_from:
 
 My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Science Education and Research Pune](http://www.iiserpune.ac.in/) working under the supervision of [Prof. M. S. Santhanam](http://www.iiserpune.ac.in/~santh/). My primary interest is in obtaining insight into practically relevant problems, which could arise in various fields including (but not restricted to) physics, biology, and the social sciences, by first formulating them as mathematical models and then analyzing them using tools from Statistical Physics, Graph Theory and Game Theory.
 
-Here are some important links for my review:
 
-1. [Academic CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing)
+General philosophy 
+=========
+A very high-level goal of statistical physics is to provide a low-dimensional representation of high-dimensional complex systems. This is not always an easy task. Ideally, one wants to arrive at a description which captures essential features of the complex system at hand, but one which is also simple enough, so that it is tractable, and further insight into the system can be generated from it. This is where stochastic processes play an important role, which is a unifying theme of my research interests. The general philosophy behind stochastic modelling is that when you are faced with unmanageable complexity, a good first step is to model that with randomness. The pursuit of describing elements of a complex system in the simplest manner possible, and the remarkable success of stochastic modelling in doing so has shaped my research interests significantly. 
 
-2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
+The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
 
-3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
-
-
-
+<!-- 
 Publications (from the last review period May 2021 - April 2022)
 =========
 * In preparation:
@@ -39,30 +37,9 @@ Publications (from the last review period May 2021 - April 2022)
   * [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd), with Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Prof. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
  
  Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
+ -->
+<!-- [Teaching report for the last review period is available here.](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing) -->
 
-
-Teaching
-=========
-* Grader for: 
-  * Advanced Quantum Mechanics      (Spring 2019),  Course coordinator: Prof. Deepak Dhar
-* Teaching Assistant for:
-  * Nonlinear Dynamics and Chaos    (Spring 2020),  Course coordinator: Prof. M. S. Santhanam
-  * Statistical and Thermal Physics (Spring 2021),  Course coordinator: Prof. Seema Sharma, Prof. Vijaykumar Chikkadi
-* Lecturer:
-  * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune
-  * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
-  * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
-  * Statistical Mechanics           (Spring 2022), at Fergusson College, Pune
-
-[Teaching report for the last review period is available here.](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
-
-
-
-Summary 
-=========
-A very high-level goal of statistical physics is to provide a low-dimensional representation of high-dimensional complex systems. This is not always an easy task. Ideally, one wants to arrive at a description which captures essential features of the complex system at hand, but one which is also simple enough, so that it is tractable, and further insight into the system can be generated from it. This is where stochastic processes play an important role, which is a unifying theme of my research interests. The general philosophy behind stochastic modelling is that when you are faced with unmanageable complexity, a good first step is to model that with randomness. The pursuit of describing elements of a complex system in the simplest manner possible, and the remarkable success of stochastic modelling in doing so has shaped my research interests significantly. 
-
-The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
 
 
 Research Interests
@@ -81,32 +58,49 @@ As a Prime Minister's Research Fellow, I aim to carry out collaborative, interdi
 Publications 
 =========
 
-
-1. [Diffusion-Controlled Reactions Triggered by Multiple Particles with Reversible Target-Binding Kinetics](https://arxiv.org/abs/2202.07354) 
-  * With Prof. Denis Grebenkov,	*arXiv:2202.07354*
-2. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
+1. [Universal framework for record ages under restart](https://arxiv.org/abs/2208.10877)
+  * With Arnab Pal, ArXiv:2208.10877
+3. [First-passage times of multiple diffusing particles with reversible target-binding kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91)
+  * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical*
+4. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
-3. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
+5. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
   * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-4. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
+6. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
   * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
-5. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
+7. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
-6. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
+8. [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459)
   * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
-7. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
+9. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Valerio Capraro and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
-8. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
+10. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
   * With Suman Kulkarni and Prof. M. S. Santhanam, in *Chaos* (2020)
-9. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
+11. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
   * With Prof. Deepak Dhar, in *Journal of Statistical Physics* (2020)
-10. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
+12. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
   * With Prof. Deepak Dhar, in *Journal of Statistical Mechanics* (2020)
-11. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
+13. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
   * With Prof. M. S. Santhanam, in *Physica A* (2019)
-12. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
+14. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
   * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
   
+  
+  
+
+Teaching
+=========
+* Grader for: 
+  * Advanced Quantum Mechanics      (Spring 2019),  Course coordinator: Prof. Deepak Dhar
+* Teaching Assistant for:
+  * Nonlinear Dynamics and Chaos    (Spring 2020),  Course coordinator: Prof. M. S. Santhanam
+  * Statistical and Thermal Physics (Spring 2021),  Course coordinator: Prof. Seema Sharma, Prof. Vijaykumar Chikkadi
+* Lecturer:
+  * Mathematical Methods in Physics (Spring 2021), at Fergusson College, Pune
+  * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
+  * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
+  * Statistical Mechanics           (Spring 2022), at Fergusson College, Pune
+
 
 <!-- 
 Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems. -->
@@ -124,6 +118,15 @@ The work described above was written up in June 2021, and has now been published
  -->
 
 
+
+<!-- Here are some important links for my review:
+
+1. [Academic CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing)
+
+2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
+
+3. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
+ -->
 
 
 
