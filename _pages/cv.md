@@ -35,7 +35,7 @@ Publications
   * With Sandeep Chowdhary, Prof. Valerio Capraro, and Prof. Matjaz Perc, in *Physical Review E* (2021) 
 9. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
-10. [Chase-Escape Percolation on the 2D Square Lattice](http://aanjaneyakumar.com/publication/2020trust)
+10. [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459)
   * With Prof. Peter Grassberger, and Prof. Deepak Dhar, in *Physica A* (2021) 
 11. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
   * With Prof. Valerio Capraro, and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
@@ -50,7 +50,7 @@ Publications
 16. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
   * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
   
-Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en).   
+Complete list of published work is available on my [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en).   
 
 Teaching
 =========
