@@ -34,7 +34,7 @@ Publications (from the last review period May 2022 - April 2023)
  * [Inference from Gated First-Passage Times](https://arxiv.org/abs/2210.00678), with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
  * [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164), with Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
  * [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920), with Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
- * [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91). with Prof. Denus Grebenkov, *J. Phys. A: Math. Theor. 55 325002* (2022)
+ * [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91). with Prof. Denis Grebenkov, *J. Phys. A: Math. Theor. 55 325002* (2022)
  * [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101), with Arnab Pal, *Phys. Rev. Lett. 130, 157101* (2023)
 
 Manuscripts in preparation
