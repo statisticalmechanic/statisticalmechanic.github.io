@@ -40,7 +40,7 @@ Publications (from the last review period May 2022 - April 2023)
 Manuscripts in preparation
 =========
  * Optimal detection of gated processes, with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam (2023)
- * Extreme value statistics of partially-observed time series, with Prof. M.S. Santhanam (2023)
+ * Extreme value statistics of partially-observed time series, with Ritam Pal, and Prof. M.S. Santhanam (2023)
 
  
 Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
