@@ -20,25 +20,19 @@ A very high-level goal of statistical physics is to provide a low-dimensional re
 
 The general philosophy described above, in fact, goes much beyond statistical physics and can be thought of as a guiding principle for fruitful research across disciplines. I try my best to keep this approach in mind while tackling research problems. Some of my research endeavours end up in the form of publications and a list of them can be found [here](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk to you about them. I strongly believe in science being a collective and collaborative effort and I look forward to discussing ideas with you.  
 
-<!-- 
-Publications (from the last review period May 2021 - April 2022)
+
+Publications (from the last review period May 2022 - April 2023)
 =========
-* In preparation:
-  * Inference in gated first-passage processes 
-  * Gated first-passage processes in continuous space and time 
-  * A unified framework to compute record ages under restart 
-* Preprints:
-  * [Diffusion-controlled reactions triggered by multiple particles with reversible target-binding kinetics](https://arxiv.org/abs/2202.07354), with Prof. Denis Grebenkov,	*arXiv:2202.07354*
-* Published work:
-  * [Reversible target-binding kinetics of multiple impatient particles](https://aip.scitation.org/doi/full/10.1063/5.0083849), with Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
-  * [First detection of threshold crossing events under intermittent sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103), with Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-  * [Chase-escape percolation on the 2D square lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459), with Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021)
-  * [The evolution of honesty in higher-order social networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308), with Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
-  * [Simplicial contagion in temporal higher-order networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd), with Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Prof. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
+
+ * [Inference from Gated First-Passage Times](https://arxiv.org/abs/2210.00678), with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
+ * [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164), with Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
+ * [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920), with Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
+ * [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91). with Prof. Denus Grebenkov, *J. Phys. A: Math. Theor. 55 325002* (2022)
+ * [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101), with Arnab Pal, *Phys. Rev. Lett. 130, 157101* (2023)
  
- Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
- -->
-<!-- [Teaching report for the last review period is available here.](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing) -->
+Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
+
+[Teaching certificate for the last review period is available here.](https://drive.google.com/file/d/1YXJvfJpqAz4Fo0KQX9sEIEvw32NiR9j8/view?usp=sharing)
 
 
 
@@ -58,33 +52,38 @@ My current research interests include:
 Publications 
 =========
 
-1. [Universal framework for record ages under restart](https://arxiv.org/abs/2208.10877)
-  * With Arnab Pal, ArXiv:2208.10877
-3. [First-passage times of multiple diffusing particles with reversible target-binding kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91)
-  * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical*
-4. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
+1. [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920)
+  * With Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
+2. [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164)
+  * With Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
+3. [Inference in Gated First-Passage Processes](https://arxiv.org/abs/2210.00678)
+  * With Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
+4. [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101) 
+  * with Arnab Pal, in *Physical Review Letters* (2023)
+5. [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91)  
+  * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical* (2022)
+6. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
   * With Prof. Denis Grebenkov, in *The Journal of Chemical Physics* (2022)
-5. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
-  * With Aniket Zodage and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
-6. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
-  * With Sandeep Chowdhary, Prof. Valerio Capraro and Prof. Matjaz Perc, in *Physical Review E* (2021) 
-7. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
+7. [First Detection of Threshold Crossing Events under Intermittent Sensing](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.L052103)
+  * With Aniket Zodage, and Prof. M. S. Santhanam,  in *Physical Review E (Letter)* (2021) 
+8. [The Evolution of Honesty in Higher-Order Social Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054308)
+  * With Sandeep Chowdhary, Prof. Valerio Capraro, and Prof. Matjaz Perc, in *Physical Review E* (2021) 
+9. [Simplicial Contagion in Temporal Higher-Order Networks](https://iopscience.iop.org/article/10.1088/2632-072X/ac12bd)
   * With Sandeep Chowdhary, Dr. Iacopo Iacopini, Dr. Giulia Cencetti, and Dr. Federico Battiston, in *Journal of Physics: Complexity* (2021) 
-8. [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459)
-  * With Prof. Peter Grassberger and Prof. Deepak Dhar, in *Physica A* (2021) 
-9. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
-  * With Prof. Valerio Capraro and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
-10. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
-  * With Suman Kulkarni and Prof. M. S. Santhanam, in *Chaos* (2020)
-11. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
+10. [Chase-Escape Percolation on the 2D Square Lattice](https://www.sciencedirect.com/science/article/pii/S0378437121003459)
+  * With Prof. Peter Grassberger, and Prof. Deepak Dhar, in *Physica A* (2021) 
+11. [The Evolution of Trust and Trustworthiness](http://aanjaneyakumar.com/publication/2020trust)
+  * With Prof. Valerio Capraro, and Prof. Matjaz Perc, in *Journal of The Royal Society Interface* (2020) 
+12. [Extreme Events in Stochastic Transport on Networks](http://aanjaneyakumar.com/publication/2020extreme)
+  * With Suman Kulkarni, and Prof. M. S. Santhanam, in *Chaos* (2020)
+13. [Improved Upper Bounds on the Asymptotic Growth Velocity of Eden Clusters](http://aanjaneyakumar.com/publication/2020eden)
   * With Prof. Deepak Dhar, in *Journal of Statistical Physics* (2020)
-12. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
+14. [TASEP Speed Process: An Effective Medium Approach](http://aanjaneyakumar.com/publication/2019tasep)
   * With Prof. Deepak Dhar, in *Journal of Statistical Mechanics* (2020)
-13. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
-  * With Prof. M. S. Santhanam, in *Physica A* (2019)
-14. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
-  * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
-  
+15. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
+  * With Yagyik Goswami and Prof. M. S. Santhanam, in *Physica A* (2019)
+16. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
+  * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)  
   
   
 
@@ -100,6 +99,8 @@ Teaching
   * Statistical Mechanics           (Summer 2021), at Fergusson College, Pune
   * Mathematical Methods in Physics (Fall 2021),   at Fergusson College, Pune
   * Statistical Mechanics           (Spring 2022), at Fergusson College, Pune
+  * Mathematical Methods in Physics (Fall 2022),   at Fergusson College, Pune
+  * Statistical Mechanics           (Spring 2023), at Fergusson College, Pune
 
 
 <!-- 
