@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Indian Institute of Science Education and Research Pune, 2014-2019
 * M.S. in Physics, Indian Institute of Science Education and Research Pune, 2014-2019
-* Ph.D in Physics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected) 
+* PhD in Physics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected) 
 
 Publications
 ======
