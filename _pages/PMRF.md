@@ -9,15 +9,13 @@ redirect_from:
   - /PMRF
 ---
 
-
-
 My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Science Education and Research Pune](http://www.iiserpune.ac.in/) working under the supervision of [Prof. M. S. Santhanam](http://www.iiserpune.ac.in/~santh/). My primary interest is in obtaining insight into practically relevant problems, which could arise in various fields including (but not restricted to) physics, biology, and the social sciences, by first formulating them as mathematical models and then analyzing them using tools from Statistical Physics, Graph Theory and Game Theory.
 
 Here are some important links for my review:
 
-1. [Teaching Report: May 2021 - April 2022](https://drive.google.com/file/d/1pDhheJ_ljAtBg0fzEw0ixP0A7dwojKqn/view?usp=sharing)
+1. [Teaching Report: May 2022 - April 2023](https://drive.google.com/file/d/1pDhheJ_ljAtBg0fzEw0ixP0A7dwojKqn/view?usp=sharing)
 
-2. [Progress Report: May 2021 - April 2022](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
+2. [Progress Report: May 2022 - April 2023](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
 
 3. [Academic CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing)
 
@@ -35,7 +33,7 @@ Publications (from the last review period May 2022 - April 2023)
  * [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164), with Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
  * [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920), with Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
  * [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91). with Prof. Denis Grebenkov, *J. Phys. A: Math. Theor. 55 325002* (2022)
- * [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101), with Arnab Pal, *Phys. Rev. Lett. 130, 157101* (2023)
+ * [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101), with Prof. Arnab Pal, *Phys. Rev. Lett. 130, 157101* (2023)
 
 Manuscripts in preparation
 =========
@@ -71,7 +69,7 @@ Publications
   * With Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
 3. [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164)
   * With Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
-4. [Inference in Gated First-Passage Processes](https://arxiv.org/abs/2210.00678)
+4. [Inference from Gated First-Passage Times](https://arxiv.org/abs/2210.00678)
   * With Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
 5. [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91)  
   * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical* (2022)
