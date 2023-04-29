@@ -13,11 +13,11 @@ My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Sc
 
 Here are some important links for my review:
 
-1. [Teaching Report: May 2022 - April 2023](https://drive.google.com/file/d/1pDhheJ_ljAtBg0fzEw0ixP0A7dwojKqn/view?usp=sharing)
+1. [Teaching Report: May 2022 - April 2023](https://drive.google.com/file/d/1zMJVcyy9YEdOeHWweKt6GDtxPkU20XiU/view?usp=sharing)
 
-2. [Progress Report: May 2022 - April 2023](https://drive.google.com/file/d/1WJKN6A_o-PW-aXxABLADYij0amQtrZ01/view?usp=sharing)
+2. [Progress Report: May 2022 - April 2023](https://drive.google.com/file/d/1k5QqWvYoJUgRe72mGDueX1gMAyCZYXUm/view?usp=sharing)
 
-3. [Academic CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing)
+3. [Academic CV](https://drive.google.com/file/d/1Dmps8HE3ZL7F-5i8BzPt3XuNSigIkjXC/view?usp=sharing)
 
 Summary 
 =========
@@ -41,9 +41,7 @@ Manuscripts in preparation
  * Extreme value statistics of partially-observed time series, with Ritam Pal, and Prof. M.S. Santhanam (2023)
 
  
-Complete list of published work is available in my [CV](https://drive.google.com/file/d/1wbNZsc5b_aFxOJ5ui742LrfvhNce5_51/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
-
-[Teaching certificate for the last review period is available here.](https://drive.google.com/file/d/1pDhheJ_ljAtBg0fzEw0ixP0A7dwojKqn/view?usp=sharing)
+Complete list of published work is available in my [CV](https://drive.google.com/file/d/1Dmps8HE3ZL7F-5i8BzPt3XuNSigIkjXC/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
 
 
 
@@ -113,6 +111,7 @@ Teaching
   * Mathematical Methods in Physics (Fall 2022),   at Fergusson College, Pune
   * Statistical Mechanics           (Spring 2023), at Fergusson College, Pune
 
+[Teaching certificate for the last review period is available here.](https://drive.google.com/file/d/1zMJVcyy9YEdOeHWweKt6GDtxPkU20XiU/view?usp=sharing)
 
 <!-- 
 Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems. -->
