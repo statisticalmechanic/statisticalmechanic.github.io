@@ -24,7 +24,7 @@ Publications
 3. [Inference from Gated First-Passage times](https://arxiv.org/abs/2210.00678)
   * With Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
 4. [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101) 
-  * with Arnab Pal, in *Physical Review Letters* (2023)
+  * with Prof. Arnab Pal, in *Physical Review Letters* (2023)
 5. [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91)  
   * With Prof. Denis Grebenkov,	in *Journal of Physics A: Mathematical and Theoretical* (2022)
 6. [Reversible Target-Binding Kinetics of Multiple Impatient Particles](https://aip.scitation.org/doi/full/10.1063/5.0083849)
