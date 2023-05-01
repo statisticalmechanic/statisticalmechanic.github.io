@@ -62,7 +62,7 @@ Publications
 =========
 
 1. [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101) 
-  * with Arnab Pal, in *Physical Review Letters* (2023)
+  * with Prof. Arnab Pal, in *Physical Review Letters* (2023)
 2. [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920)
   * With Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
 3. [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164)
