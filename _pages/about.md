@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Games, Graphs and Randomness"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
