@@ -83,7 +83,7 @@ author:
   name             : "Aanjaneya Kumar"
   avatar           : "profile.jpeg"
   bio              : "I am a PhD student at IISER Pune working in the field of Complex Systems. I am fortunate to be advised by Prof. M. S. Santhanam."
-  location         : "Pune, India"
+  #location         : "Pune, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en"
