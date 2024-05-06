@@ -13,11 +13,11 @@ My name is Aanjaneya Kumar and I am a PhD student at the [Indian Institute of Sc
 
 Here are some important links for my review:
 
-1. [Teaching Report: May 2022 - April 2023](https://drive.google.com/file/d/1zMJVcyy9YEdOeHWweKt6GDtxPkU20XiU/view?usp=sharing)
+1. [Teaching Report: April 2023 - April 2024](https://drive.google.com/file/d/13kjs_xsn7M_qVzruHVVjjDKBeYRXoWbh/view?usp=sharing)
 
-2. [Progress Report: May 2022 - April 2023](https://drive.google.com/file/d/1k5QqWvYoJUgRe72mGDueX1gMAyCZYXUm/view?usp=sharing)
+2. [Progress Report: April 2023 - April 2024](https://drive.google.com/file/d/13AZmi9A5LyCw2Petp4erk0ERee6fbEOF/view?usp=sharing)
 
-3. [Academic CV](https://drive.google.com/file/d/1Dmps8HE3ZL7F-5i8BzPt3XuNSigIkjXC/view?usp=sharing)
+3. [Academic CV](https://drive.google.com/file/d/1Wz6bABWBam6koJmTnj5tyl817KsKkjzv/view?usp=sharing)
 
 Summary 
 =========
@@ -29,19 +29,20 @@ The general philosophy described above, in fact, goes much beyond statistical ph
 Publications (from the last review period May 2022 - April 2023)
 =========
 
- * [Inference from Gated First-Passage Times](https://arxiv.org/abs/2210.00678), with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *ArXiv:2210.00678* (2022)
- * [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164), with Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *ArXiv:2211.09164* (2022)
- * [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920), with Ritam Pal, and Prof. M.S. Santhanam, *ArXiv:2212.06920* (2022)
- * [First-Passage Times of Multiple Diffusing Particles with Reversible Target-Binding Kinetics](https://iopscience.iop.org/article/10.1088/1751-8121/ac7e91). with Prof. Denis Grebenkov, *J. Phys. A: Math. Theor. 55 325002* (2022)
- * [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101), with Prof. Arnab Pal, *Phys. Rev. Lett. 130, 157101* (2023)
+ * [Inference from Gated First-Passage Times]([https://arxiv.org/abs/2210.00678](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L032043)), with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam, *Physical Review Research 5, L0320438 (2023)* 
+ * [Continuous Gated First-Passage Processes](https://arxiv.org/abs/2211.09164), with Yuval Scher, Prof. M.S. Santhanam, and Prof. Shlomi Reuveni, *In Submission to Reports of Progress in Physics* (2024)
+ * [Depolarization of Opinions on Social Networks through Random Nudges](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.034307), with Ritam Pal, and Prof. M.S. Santhanam, *Physical Review E 108, 034307* (2023)
+ * [Universal Statistics of Competition in Democratic Elections
+](https://arxiv.org/abs/2401.05065), with Ritam Pal, and Prof. M.S. Santhanam, *In Submission to Physical Review Letters* (2024)
+ * [Phase Transitions in Systems of Particles with only Hard-Core Interactions](https://iopscience.iop.org/article/10.1209/0295-5075/acf6dc/meta#epl23100470s5), with Prof. R. Rajesh, and Prof. Deepak Dhar, *Europhysics Letters 143, 61001* (2023)
 
 Manuscripts in preparation
 =========
- * Optimal detection of gated processes, with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam (2023)
- * Extreme value statistics of partially-observed time series, with Prof. M.S. Santhanam (2023)
+ * Optimal sampling of gated first-passage processes, with Yuval Scher, Prof. Shlomi Reuveni, and Prof. M.S. Santhanam (2024)
+ * Extreme value statistics of partially-observed time series, with Prof. M.S. Santhanam (2024)
 
  
-Complete list of published work is available in my [CV](https://drive.google.com/file/d/1Dmps8HE3ZL7F-5i8BzPt3XuNSigIkjXC/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
+Complete list of published work is available in my [CV](https://drive.google.com/file/d/1Wz6bABWBam6koJmTnj5tyl817KsKkjzv/view?usp=sharing) and [Google Scholar page](https://scholar.google.com/citations?user=SSj4BocAAAAJ&hl=en). 
 
 
 
@@ -58,9 +59,8 @@ My current research interests include:
 * Evolutionary game theory
 
 
-Publications 
+Older Publications 
 =========
-
 1. [Universal Framework for Record Ages under Restart](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.157101) 
   * with Prof. Arnab Pal, in *Physical Review Letters* (2023)
 2. [Depolarization of Opinions on Social Networks through Random Nudges](https://arxiv.org/abs/2212.06920)
@@ -92,7 +92,7 @@ Publications
 15. [Distinct Nodes Visited by Random Walkers on Scale-Free Networks](http://aanjaneyakumar.com/publication/2019dsv)
   * With Yagyik Goswami and Prof. M. S. Santhanam, in *Physica A* (2019)
 16. [Record Statistics of Equities and Market Indices](https://link.springer.com/chapter/10.1007%2F978-3-319-47705-3_7)
-  * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)  
+  * With Prof. M. S. Santhanam, in *Econophysics and Sociophysics: Recent Progress and Future Directions* (2017)
   
   
 
@@ -111,7 +111,7 @@ Teaching
   * Mathematical Methods in Physics (Fall 2022),   at Fergusson College, Pune
   * Statistical Mechanics           (Spring 2023), at Fergusson College, Pune
 
-[Teaching certificate for the last review period is available here.](https://drive.google.com/file/d/1zMJVcyy9YEdOeHWweKt6GDtxPkU20XiU/view?usp=sharing)
+[Teaching certificate for the last review period is available here.](https://drive.google.com/file/d/13kjs_xsn7M_qVzruHVVjjDKBeYRXoWbh/view?usp=sharing)
 
 <!-- 
 Extreme events, broadly defined as those events whose numerical values show a pronounced deviation from their typical values and exceed some predefined threshold, are ubiquitous and they occur in a wide variety of natural, social and engineering systems. Not surprisingly, the study of extreme events and systemic failures has received a lot of recent research attention. Starting from market crashes and power blackouts, to extreme climate events and internet breakdown -- extreme events can lead to disastrous consequences in the systems they occur in and severely disrupt their functioning. To this end, a growing body of literature is focused towards building a theoretical framework to analyze such rare events. The classical extreme value statistics is nearly a century old and more recently, advances in large deviation theory have improved our understanding of extreme events. There also has been an interesting line of work, which has aimed to understand how extreme events take place in networked systems. -->
